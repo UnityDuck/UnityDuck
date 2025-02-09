@@ -1,5 +1,5 @@
 # 🐤 About Me:
-🦆 I am an insane duck, navigating life with a splash of humor and grace.<br>🌍 Proudly a Russian-Polish-Ukrainian blend, embracing cultures like a feathered mosaic.<br>💻 Passionate about programming, weaving code into enchanting digital tales.<br>✨ Curious and adventurous, I explore the world with a paddle and a quack.<br>🎶 Music flows through my feathers; I dance to the rhythm of life.<br>🌈 Join me on this vibrant journey, where everyday is an opportunity to soar!
+🦆 I am an insane duck, navigating life with a splash of humor and grace.<br>🌍 Proudly a duck blend, embracing cultures like a feathered mosaic.<br>💻 Passionate about programming, weaving code into enchanting digital tales.<br>✨ Curious and adventurous, I explore the world with a paddle and a quack.<br>🎶 Music flows through my feathers; I dance to the rhythm of life.<br>🌈 Join me on this vibrant journey, where everyday is an opportunity to soar!
 
 
 # 💻 Tech Stack:
